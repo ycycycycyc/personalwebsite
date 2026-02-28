@@ -9,25 +9,39 @@ Biostatistics • Clinical Trials • Digital Health
 
 ---
 
-## Profile
-I am a data scientist with a background in biostatistics and clinical trials, working at the intersection of health, data, and AI. My work focuses on translating complex data into practical insights for research and decision-making.
+## Overview
+I am a data scientist with a background in biostatistics and large-scale clinical trials. My work sits at the intersection of health, data, and AI, with a focus on translating complex data into clear, actionable insights for research and decision-making.
 
 ---
 
-## Experience
-**University of Maryland**  
-*Biostatistician / Data Scientist*  
+## Professional Experience
 
-- Worked on large-scale maternal–infant clinical trials  
-- Led statistical analyses and data pipelines  
-- Collaborated with multidisciplinary clinical and research teams
+### University of Maryland  
+**Biostatistician / Data Scientist**
+
+- Conducted statistical analyses for large maternal–infant randomized controlled trials  
+- Built and maintained data pipelines for clinical and real-world datasets  
+- Collaborated with clinicians, epidemiologists, and data scientists on study design and analysis  
+- Contributed to protocol development, statistical analysis plans, and publications
 
 ---
 
-## Skills
+## Research & Analytical Focus
+- Clinical trial design and analysis  
+- Maternal and child health  
+- Real-world data and observational studies  
+- AI-assisted research workflows  
+- Digital health and emerging data sources
+
+---
+
+## Technical Skills
 - **Programming**: R, Python, SQL  
-- **Methods**: Statistical modeling, trial design, real-world data analysis  
-- **Interests**: AI-assisted research, digital health, applied machine learning
+- **Statistics**: regression models, survival analysis, causal inference  
+- **Data**: data cleaning, validation, reproducible analysis pipelines
 
 ---
 
+## Education
+**M.S. in Biostatistics**  
+Johns Hopkins University, Bloomberg School of Public Health
