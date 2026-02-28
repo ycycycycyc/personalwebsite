@@ -15,8 +15,8 @@ This site is a quiet place where I collect:
 I’m building this slowly, on purpose.
 
 ## Explore
-- [CV](/cv)
-- [Publications](/publications)
-- [Projects](/projects)
-- [Blog](/blog)
-- [Photos](/photos)
+- [CV](cv.md)
+- [Publications](publications.md)
+- [Projects](projects.md)
+- [Blog](blog.md)
+- [Photos](photos.md)
