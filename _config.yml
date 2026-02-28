@@ -1,0 +1,10 @@
+title: Yuji Chen
+theme: minima
+
+header_pages:
+  - index.md
+  - cv.md
+  - publications.md
+  - projects.md
+  - blog.md
+  - photos.md
