@@ -1,5 +1,5 @@
 ---
-title: Blog
+Title: Blog
 ---
 
 # Writing
