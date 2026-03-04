@@ -8,7 +8,7 @@ I take photos to notice things I would otherwise miss.
 
 ## Hawaii
 
-<img src="/images/hawaii_01.jpg" width="600">
+<img src="/images/IMG_1820.jpg" width="600">
 
 Hawaii — one of my favorite moments while traveling.  
 This photo unexpectedly reached **10.1k likes online**.
