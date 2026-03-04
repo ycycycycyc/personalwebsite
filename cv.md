@@ -31,13 +31,17 @@ Jun 2023 – Jan 2026
 
 ---
 
-### Johns Hopkins University, Bloomberg School of Public Health  
+### Johns Hopkins Bloomberg School of Public Health  
 **Research Assistant – Department of Biostatistics**  
-May 2022 – Feb 2023
+May 2022 – Feb 2023  
 
-- Studied **bootstrap adaptations for event-driven clinical trials**
-- Applied statistical resampling methods to the **TREAT PARENTS Trial**
-- Evaluated inference properties under survival endpoints and event-based trial designs
+- Conducted research on **bootstrap methods for event-driven clinical trials with survival outcomes**  
+- Developed and evaluated a **cluster bootstrap approach** using simulation studies in **R**  
+- Compared bootstrap methods for treatment effect estimation using **Cox proportional hazards models**  
+- Applied the methods to data from the **TREAT PARENTS randomized clinical trial**
+
+**M.S. Thesis:** 
+An Adapted Bootstrap for Trials that Enroll until a Fixed Number of Events Are Observed: Application to the TREAT PARENTS Trial
 
 ---
 
@@ -63,29 +67,19 @@ May 2016 – May 2019
 - Standardized and harmonized epidemiological datasets for international collaborations including the **INHANCE (International Head and Neck Cancer Epidemiology) Consortium**
   
 ---
-## Early Research Experience
+### Early Research Experience
 
-### Huntsman Cancer Institute  
-**Student Research Assistant**  
-Jul 2015 – Apr 2016
+**Huntsman Cancer Institute – University of Utah**  
+Student Research Assistant | Jul 2015 – Apr 2016  
+- Conducted statistical analysis for a multicenter case-control study on **head and neck cancer in East Asia**
 
-- Conducted statistical analysis for a multicenter case-control study investigating causes of **head and neck cancer in East Asia**
+**University of Utah – Department of Family and Preventive Medicine**  
+Undergraduate Researcher | 2015 – 2016  
+- Studied the association between **family history of cancer and lung cancer risk in Nepal**
 
----
-### University of Utah – Department of Family and Preventive Medicine  
-**Undergraduate Researcher**  
-2015 – 2016
-
-- Investigated associations between **family history of cancer and lung cancer risk in Nepal**
-
----
-
-### University of Utah – Department of Mathematics  
-**Undergraduate Research Project**  
-Spring 2015
-
-- Explored algorithms behind **webpage ranking systems**
-- Implemented statistical comparisons of multiple testing correction methods using R
+**University of Utah – Department of Mathematics**  
+Undergraduate Research Project | Spring 2015  
+- Explored **webpage ranking algorithms** and compared multiple testing correction methods in **R**
 
 ---
 
@@ -94,7 +88,7 @@ Spring 2015
 - Real-world data and observational studies  
 - AI-assisted research workflows
 - Reliable AI for healthcare and clinical decision systems
-- AI+ real-world health data
+- AI + real-world health data
 
 ---
 
