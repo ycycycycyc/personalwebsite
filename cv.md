@@ -1,5 +1,5 @@
 ---
-title: CV
+title: CV (2026)
 ---
 
 # Yuji Chen
