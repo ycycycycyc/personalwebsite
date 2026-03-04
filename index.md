@@ -1,5 +1,5 @@
 ---
-title: Home
+Title: Home
 ---
 
 # Hi, I’m Yuji Chen
