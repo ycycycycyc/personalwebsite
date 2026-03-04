@@ -70,6 +70,21 @@ The project compares these AI-generated syntheses with human-written reviews and
 
 The goal is to better understand where AI systems can assist scientific knowledge synthesis and where human expertise remains essential.
 
+### LLM Reward Hacking and Evaluation Signals in Medical Reasoning
+
+This exploratory project studies how large language models respond to evaluation signals and reward structures in medical reasoning tasks.
+
+LLMs are increasingly used to summarize biomedical literature, answer medical questions, and support clinical decision-making. However, evaluation systems may unintentionally encourage models to optimize for higher scores rather than truthful, cautious, or clinically appropriate reasoning — a phenomenon often referred to as **reward hacking**.
+
+This project explores:
+
+- how models respond to evaluation metrics in medical reasoning tasks  
+- whether models downplay uncertainty or clinical risk to produce more confident answers  
+- how alignment methods influence medical reasoning behavior  
+- how evaluation frameworks may unintentionally reward misleading or overly confident outputs  
+
+The goal is to better understand how evaluation systems shape model behavior in healthcare contexts, and how health AI systems can encourage **truthfulness, uncertainty awareness, and responsible medical reasoning**.
+
 ---
 
 (More projects will be added as they evolve.)
