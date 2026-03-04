@@ -17,7 +17,7 @@ I am particularly interested in the intersection of **AI and health data science
 
 ## Professional Experience
 
-### University of Maryland  
+### University of Maryland, School of Medicine  
 **Biostatistician / Lead Research Data Analyst**
 Center for Vaccine Development and Global Health  
 Jun 2023 – Jan 2026
@@ -31,7 +31,7 @@ Jun 2023 – Jan 2026
 
 ---
 
-### Johns Hopkins Bloomberg School of Public Health  
+### Johns Hopkins University, Bloomberg School of Public Health  
 **Research Assistant – Department of Biostatistics**  
 May 2022 – Feb 2023
 
@@ -41,7 +41,7 @@ May 2022 – Feb 2023
 
 ---
 
-### Peking University Clinical Research Institute  
+### Peking University, Clinical Research Institute  
 **Research Assistant – Center for Real-World Evidence Evaluation**  
 May – Aug 2020
 
