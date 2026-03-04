@@ -1,5 +1,5 @@
 ---
-title: Photos
+Title: Photos
 ---
 
 # Photos
