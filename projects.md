@@ -68,13 +68,6 @@ The idea is to select topics in drug development, clinical trials, or health dat
 
 The project compares these AI-generated syntheses with human-written reviews and across different models. The focus is on how models identify key studies, interpret methodological details, and synthesize findings across the literature.
 
-Key questions include:
-
-- whether AI systems identify the same key studies and conclusions as human experts  
-- how different models interpret statistical methods and study designs  
-- how AI-generated reviews differ in structure and emphasis  
-- what types of errors appear, including missing studies or hallucinated references  
-
 The goal is to better understand where AI systems can assist scientific knowledge synthesis and where human expertise remains essential.
 
 ---
