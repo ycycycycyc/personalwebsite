@@ -9,6 +9,35 @@ Some are technical, some are exploratory. All are in progress.
 
 ---
 
+## AI & Health
+
+### Human vs AI Literature Synthesis in Drug Development and Health Data
+
+This project explores how large language models perform in scientific literature synthesis compared with traditional human-written review papers.
+
+The idea is to select topics in drug development, clinical trials, or health data science that have well-established review articles published before the widespread adoption of large language models. Using the same body of literature, different AI models are asked to generate structured literature reviews or meta-level summaries of the field.
+
+The project compares these AI-generated syntheses with human-written reviews and across different models. The focus is on how models identify key studies, interpret methodological details, and synthesize findings across the literature.
+
+The goal is to better understand where AI systems can assist scientific knowledge synthesis and where human expertise remains essential.
+
+### LLM Reward Hacking and Evaluation Signals in Medical Reasoning
+
+This exploratory project studies how large language models respond to evaluation signals and reward structures in medical reasoning tasks.
+
+LLMs are increasingly used to summarize biomedical literature, answer medical questions, and support clinical decision-making. However, evaluation systems may unintentionally encourage models to optimize for higher scores rather than truthful, cautious, or clinically appropriate reasoning — a phenomenon often referred to as **reward hacking**.
+
+This project explores:
+
+- how models respond to evaluation metrics in medical reasoning tasks  
+- whether models downplay uncertainty or clinical risk to produce more confident answers  
+- how alignment methods influence medical reasoning behavior  
+- how evaluation frameworks may unintentionally reward misleading or overly confident outputs  
+
+The goal is to better understand how evaluation systems shape model behavior in healthcare contexts, and how health AI systems can encourage **truthfulness, uncertainty awareness, and responsible medical reasoning**.
+
+---
+
 ## Data & Analysis
 
 ### Clinical trial data pipelines
@@ -20,7 +49,7 @@ Emphasis on clarity, traceability, and collaboration.
 
 ---
 
-## AI & Personal Knowledge Systems
+## Personal AI Projects
 
 ### Personal AI Agent System 
 
@@ -56,34 +85,6 @@ The work focuses on questions such as:
 - how news events and opinions propagate across companies and sectors  
 
 This project serves as an exploratory platform for combining natural language analysis, event tracking, and market observation to better understand how information, narratives, policy signals, and influential voices move through financial systems.
-
----
-## AI & Health
-
-### Human vs AI Literature Synthesis in Drug Development and Health Data
-
-This project explores how large language models perform in scientific literature synthesis compared with traditional human-written review papers.
-
-The idea is to select topics in drug development, clinical trials, or health data science that have well-established review articles published before the widespread adoption of large language models. Using the same body of literature, different AI models are asked to generate structured literature reviews or meta-level summaries of the field.
-
-The project compares these AI-generated syntheses with human-written reviews and across different models. The focus is on how models identify key studies, interpret methodological details, and synthesize findings across the literature.
-
-The goal is to better understand where AI systems can assist scientific knowledge synthesis and where human expertise remains essential.
-
-### LLM Reward Hacking and Evaluation Signals in Medical Reasoning
-
-This exploratory project studies how large language models respond to evaluation signals and reward structures in medical reasoning tasks.
-
-LLMs are increasingly used to summarize biomedical literature, answer medical questions, and support clinical decision-making. However, evaluation systems may unintentionally encourage models to optimize for higher scores rather than truthful, cautious, or clinically appropriate reasoning — a phenomenon often referred to as **reward hacking**.
-
-This project explores:
-
-- how models respond to evaluation metrics in medical reasoning tasks  
-- whether models downplay uncertainty or clinical risk to produce more confident answers  
-- how alignment methods influence medical reasoning behavior  
-- how evaluation frameworks may unintentionally reward misleading or overly confident outputs  
-
-The goal is to better understand how evaluation systems shape model behavior in healthcare contexts, and how health AI systems can encourage **truthfulness, uncertainty awareness, and responsible medical reasoning**.
 
 ---
 
