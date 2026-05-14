@@ -93,7 +93,7 @@ Undergraduate Research Project | Spring 2015
 ---
 
 ## Technical Skills
-- **Programming**: R, Python  
+- **Programming**: R, Python, SAS, Codex, Claude Code
 - **Statistics**: regression models, survival analysis, causal inference  
 - **Data**: data cleaning, validation, reproducible analysis pipelines, large-scale health datasets
 
